@@ -1,4 +1,4 @@
-# Hola soy **Daniel**
+# Hola soy **Daniel Dev**
 
 ![Alt Text](banner_github.jpg)
 
@@ -9,5 +9,8 @@
 - 🌱 Ai Developer
 - 🕸️ Web Developer
 
-Sitio web [zurita.pe](https://zurita.pe)
+### Sitio web 
+
+- [zurita.pe](https://zurita.pe)
+- [zurita.dev](https://zurita.dev)
 
