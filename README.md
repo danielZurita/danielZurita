@@ -1,6 +1,2 @@
-<a href="https://github.com/danielZurita">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
-    <img alt="Daniel Zurita's GitHub Profile README" src="light_mode.svg">
-  </picture>
-</a>
+![Daniel Zurita](dark_mode.svg#gh-dark-mode-only)
+![Daniel Zurita](light_mode.svg#gh-light-mode-only)
