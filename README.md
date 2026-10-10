@@ -1,16 +1,6 @@
-# Hola soy **Daniel Dev**
-
-![Alt Text](banner_github.jpg)
-
-# Sobre mi
-
-
-- 📱Mobile Developer
-- 🌱 Ai Developer
-- 🕸️ Web Developer
-
-### Sitio web 
-
-- [zurita.pe](https://zurita.pe)
-- [zurita.dev](https://zurita.dev)
-
+<a href="https://github.com/danielZurita">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg">
+    <img alt="Daniel Zurita's GitHub Profile README" src="light_mode.svg">
+  </picture>
+</a>
