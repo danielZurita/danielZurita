@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" font-family="ConsolasFallback,Consolas,'Courier New',monospace" width="985px" height="420px" font-size="16px">
+<style>
+@font-face { src: local('Consolas'), local('Consolas Bold'); font-family: 'ConsolasFallback'; font-display: swap; -webkit-size-adjust: 109%; size-adjust: 109%; }
+.key {fill: #953800;}
+.value {fill: #0a3069;}
+.cc {fill: #c2cfde;}
+text, tspan {white-space: pre;}
+</style>
+<rect width="985px" height="420px" fill="#f6f8fa" rx="15"/>
+<text x="55" y="46" fill="#24292f" font-size="10px" class="ascii">
+<tspan x="55" y="46">          00                         0</tspan>
+<tspan x="55" y="58">        0GttC0                    0GttCG</tspan>
+<tspan x="55" y="70">       GGit;;CG                  0G:,LiG0</tspan>
+<tspan x="55" y="82">      GG,GGC,f0                 0G:,LCG;G</tspan>
+<tspan x="55" y="94">      0CCCtG,;f0   8GLLGCL000  8G,,tG1G:G</tspan>
+<tspan x="55" y="106">      0CGL1GG:CGfttfL,,:;,tffG8G,,tCftG;G</tspan>
+<tspan x="55" y="118">      0C:GffGCGG;,,,,,,,1ti;1LGi,LGCLGLG0</tspan>
+<tspan x="55" y="130">       GfLGGCL1ii,,,,,,:,,,:ii1:;GGCGCC0</tspan>
+<tspan x="55" y="142">        0GGC,,,,,,,,,,,,,,,,::,:,,GGfC8</tspan>
+<tspan x="55" y="154">       888GG;,,;L:,,,,,,,,,,,,,,,::tC@88</tspan>
+<tspan x="55" y="166">      00@G,,,,iGC,,;C;,,:GCffL;,,::iG88G8</tspan>
+<tspan x="55" y="178">     8G8@G1:fGGCGCGGCGGGGGft11,,,;iif0@880</tspan>
+<tspan x="55" y="190">    888@@8L,,,,,,;;,,,,,,,,,,,,,,,,G8@@8800</tspan>
+<tspan x="55" y="202">   0GG808G,,,,1,,,,,,,,,,,,,ii,,,,:G80800CG8</tspan>
+<tspan x="55" y="214">  8GGG808C,,LCLCL,,,,,,,,,tCLLCf,,iGG8GCGG000</tspan>
+<tspan x="55" y="226"> 00G0G888t,,Ci,:t;,tttf,,,1f,,iC,,L80@GGGG008</tspan>
+<tspan x="55" y="238"> 08G80@8G,::::,,,,,;CG;,;,,,,,:::,i08@88G0808</tspan>
+<tspan x="55" y="250">  8G88@0t,,,:,,,,GGGCCGGGi,,,,,:,,;G@@8@8G88</tspan>
+<tspan x="55" y="262">   080@8L;,,,,,,,,CG1ifGt,,,,,,,,:;L@@@880GG</tspan>
+<tspan x="55" y="274">     080GL,,,,,,,,,fGGGt,,,,,,,:;;iG088888</tspan>
+<tspan x="55" y="286">         0GLtt;:,,,,,,,,,,,;:iii1CG0</tspan>
+<tspan x="55" y="298">           08GGCt1tCCLtfii111ii1iG08</tspan>
+<tspan x="55" y="310">         0G08Ct:;i;i1i1iii:,;iiitG@@880</tspan>
+<tspan x="55" y="322">        08CC80f,,,,,:,,:,,,,;:ttGG@800@</tspan>
+<tspan x="55" y="334">       8GLCGCGGCL;,,,,,,,,,tfLG00GG08888</tspan>
+<tspan x="55" y="346">       8880GCCCCGGLi:,,::tLGGGGGG00000808</tspan>
+<tspan x="55" y="358">      GGCG0088800GGGLtfLGGGG00000008000G0</tspan>
+<tspan x="55" y="370">    GGCCCCCCCGGGG080G0GC088GG000GGGCGGCCGGG</tspan>
+<tspan x="55" y="382">         ttttfffGCLLLLfLLCfGGLLLftttti</tspan>
+</text>
+<text x="405" y="30" fill="#24292f">
+<tspan x="405" y="30">daniel@zurita <tspan class="cc">------------------------------------------------</tspan></tspan>
+<tspan x="405" y="50"><tspan class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................ </tspan><tspan class="value">Windows 11, Linux, Android</tspan></tspan>
+<tspan x="405" y="70"><tspan class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Orbelite / Freelance</tspan></tspan>
+<tspan x="405" y="90"><tspan class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan class="cc"> ................... </tspan><tspan class="value">AI, Software &amp; Mobile Developer</tspan></tspan>
+<tspan x="405" y="110"><tspan class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ............................... </tspan><tspan class="value">VSCode, Android Studio</tspan></tspan>
+<tspan x="405" y="130"><tspan class="cc">. </tspan><tspan class="key">AI.Harness</tspan>:<tspan class="cc"> .......... </tspan><tspan class="value">Codex, Claude, Antigravity, OpenCode</tspan></tspan>
+<tspan x="405" y="150"><tspan class="cc">. </tspan><tspan class="key">AI.AgentIDE</tspan>:<tspan class="cc"> ......................................... </tspan><tspan class="value">Orca</tspan></tspan>
+<tspan x="405" y="170"><tspan class="cc">.</tspan></tspan>
+<tspan x="405" y="190"><tspan class="cc">. </tspan><tspan class="key">Languages.Programming</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">C#, Python, TypeScript, Kotlin</tspan></tspan>
+<tspan x="405" y="210"><tspan class="cc">. </tspan><tspan class="key">Languages.Real</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Español, English</tspan></tspan>
+<tspan x="405" y="230"><tspan class="cc">.</tspan></tspan>
+<tspan x="405" y="250"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Software</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Videogames</tspan></tspan>
+<tspan x="405" y="270"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Hardware</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">AI self-hosting, Homeserver, ESP32 IoT</tspan></tspan>
+<tspan x="405" y="290"><tspan class="cc">. </tspan><tspan class="key">Hobbies.Creative</tspan>:<tspan class="cc"> ........... </tspan><tspan class="value">AI Music, AI Video generation</tspan></tspan>
+<tspan x="405" y="310"></tspan>
+<tspan x="405" y="330">- Contact <tspan class="cc">----------------------------------------------------</tspan></tspan>
+<tspan x="405" y="350"><tspan class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ................................... </tspan><tspan class="value">daniel@zurita.pe</tspan></tspan>
+<tspan x="405" y="370"><tspan class="cc">. </tspan><tspan class="key">Web</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">zurita.dev</tspan></tspan>
+<tspan x="405" y="390"><tspan class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ...................................... </tspan><tspan class="value">danielZurita</tspan></tspan>
+</text>
+</svg>
